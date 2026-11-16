@@ -35,7 +35,13 @@ cannot be saved.
 
 ## Install
 
-From this repository:
+From npm:
+
+```sh
+dsh plugin --profile <profile> add dsh-local-http-proxy
+```
+
+Or straight from this repository:
 
 ```sh
 dsh plugin --profile <profile> add github:DerikZhang/dsh-http-local-proxy
