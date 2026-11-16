@@ -28,8 +28,10 @@ DeepSeek Harness 安装插件的方式是在你的 profile 目录里执行 `pnpm
 
 ## 安装
 
+从本仓库安装：
+
 ```sh
-dsh plugin --profile <profile> add dsh-local-http-proxy
+dsh plugin --profile <profile> add github:DerikZhang/dsh-http-local-proxy
 ```
 
 安装后如果该 bundle 未启用，请在那个 profile 里选中它。

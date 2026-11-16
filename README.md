@@ -35,8 +35,10 @@ cannot be saved.
 
 ## Install
 
+From this repository:
+
 ```sh
-dsh plugin --profile <profile> add dsh-local-http-proxy
+dsh plugin --profile <profile> add github:DerikZhang/dsh-http-local-proxy
 ```
 
 Then select the bundle in that profile if it is not enabled yet.
