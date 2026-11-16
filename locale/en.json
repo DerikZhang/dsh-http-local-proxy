@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "HTTP proxy for plugin installs",
+    "description": "Route plugin and package installs through an HTTP proxy, so GitHub and package registries stay reachable."
+  }
+}

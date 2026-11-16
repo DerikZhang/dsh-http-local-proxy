@@ -1,0 +1,4 @@
+# Local HTTP proxy bundle: inserts the Host half and the Plugins-page panel.
+- insert:
+    - id: local-http-proxy
+      name: 'dsh-local-http-proxy'

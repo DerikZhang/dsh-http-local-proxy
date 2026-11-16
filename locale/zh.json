@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "插件安装 HTTP 代理",
+    "description": "让本地安装插件与依赖时走 HTTP 代理，以便访问 GitHub 和各软件源。"
+  }
+}
