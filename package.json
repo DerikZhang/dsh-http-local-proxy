@@ -1,6 +1,6 @@
 {
   "name": "dsh-local-http-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set one HTTP proxy for plugin and package installs, with a switch and an editable address in the DSH Web UI.",
   "license": "MIT",
   "type": "module",
